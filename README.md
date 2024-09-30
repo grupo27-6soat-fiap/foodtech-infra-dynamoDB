@@ -2,7 +2,7 @@
 # Foodtech Infra DynamoDB
 
 Este repositório contém a configuração do **Terraform** para criar uma tabela **DynamoDB** na **AWS** chamada **"cliente"**. Este guia vai ajudá-lo a entender como configurar e executar a criação da tabela.
-
+ 
 ## Visão Geral do Projeto
 
 Este projeto utiliza **infraestrutura como código** (IaC) para criar e gerenciar uma tabela DynamoDB que armazena informações dos clientes do sistema **Foodtech**.
